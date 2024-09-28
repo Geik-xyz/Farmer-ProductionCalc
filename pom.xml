@@ -33,9 +33,9 @@
         </dependency>
         <!-- Farmer -->
         <dependency>
-            <groupId>xyz.geik.farmer</groupId>
-            <artifactId>Farmer</artifactId>
-            <version>v6-b107</version>
+            <groupId>com.github.Geik-xyz</groupId>
+            <artifactId>Farmer-v6</artifactId>
+            <version>v6-b108</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
